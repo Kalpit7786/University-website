@@ -5,8 +5,7 @@ A multi-page frontend web application built to simulate a comprehensive universi
 The website features a clean UI/UX, structured layout, and functional navigation across multiple interconnected pages.
 
 ### 🚀 Live Preview
-*(If you have hosted this on GitHub Pages, add the link here. Otherwise, you can delete this section!)*
-
+https://kalpit7786.github.io/University-website/
 ### 🛠️ Tech Stack
 * **HTML5:** Semantic structuring and multi-page routing.
 * **CSS3:** Custom styling, layouts, and responsive design elements.
